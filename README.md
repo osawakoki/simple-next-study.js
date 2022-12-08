@@ -10,6 +10,10 @@ npm run dev
 
 # ビルド
 npm run build
+
+# 静的ビルド結果確認
+cd docs
+http-server
 ```
 
 ## 自分用メモ
